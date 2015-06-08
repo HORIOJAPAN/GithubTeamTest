@@ -9,24 +9,38 @@
 
 /*
 Githubの使い方
-	導入編
-		http://codezine.jp/article/detail/8436?p=3
-		↑参考サイト
 
-		VisualBasic2013で「チームエクスプローラ」を表示する．
-		（↑ソリューションエクスプローラとかのとこ）
+	http://codezine.jp/article/detail/8436?p=3
+	↑参考サイト
+
+	VisualBasic2013で「チームエクスプローラ」を表示する．
+	（↑ソリューションエクスプローラとかのとこ）
+
+
+
+	ログイン編
+		「チームエクスプローラ」の「Git設定」
+
+		から「グローバル設定」にてGithubで登録したユーザ名・アドレスを入力
+
+		「更新」
+
+
+
+
+	導入編
 
 		「チームエクスプローラ」の中の「接続」のタブを開く
 
 		「ローカルGitリポジトリ」の「複製▼」で黄色いところに↓
 		https://github.com/HORIOJAPAN/GithubTeamTest.git
-		をコピーする
+		↑をコピーする
 
 		「複製」する
 
 
 	編集（コミット）編
-		「ソリューションエクスプローラ」から
+		「ソリューションエクスプローラ」から↓
 		GithubTeamTest/GithubTest/Source.cpp
 		↑を開く
 
@@ -44,8 +58,8 @@ Githubの使い方
 		「コミット」→「同期」
 		（コミットボタンの右の「▼」で「コミットして同期」だと一発！）
 
-
-
+		コミットできてるか不安ならウェブブラウザで確認↓
+		https://github.com/HORIOJAPAN
 
 
 
