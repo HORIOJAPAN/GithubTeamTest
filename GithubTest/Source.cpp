@@ -52,6 +52,31 @@ Githubの使い方
 		インストールに1時間ぐらいはかかると思っておく
 		
 
+	VSのライセンス認証
+
+		Proはインストールしただけだと，試用版としての扱いになり，90日後に動かなくなる
+
+		継続して使うには学生認証して永久ライセンスを得るにはプロダクトキーを入力しなければならない
+
+
+
+		https://www.dreamspark.com/student/default.aspx
+		↑からDreamSparkのアカウントを作成する
+
+		ソフトウェアカタログの
+		https://www.dreamspark.com/Student/Software-Catalog.aspx
+		から「Visual Studio Professional 2013 with Update 4」を開く
+
+		「キーを入手」するとプロダクトキーが生成される（webインストーラも通常も同じ）
+
+		あるいは，
+		https://www.dreamspark.com/Account/MyAccount.aspx
+		↑のマイアプリケーションからキーが見られる
+
+		プロダクトキーはVSの「ファイル」から「アカウントの設定」にて入力する
+
+
+
 
 
 	導入編
